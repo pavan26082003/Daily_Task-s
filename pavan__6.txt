@@ -1,0 +1,73 @@
+<!doctype html>
+<html> 
+<head> <title>WEB DEVELOPMENT </title></head>
+<body>
+
+
+
+                    <center><h1>                          FULL STACK WEB DEVELOPMENT </h1> </center>
+What is front-end?
+The front-end is the part of a website or app that users see and interact with directly. It's everything you experience visually, like the design, buttons, text, and images. Front-end development involves creating these elements using technologies like HTML, CSS, and JavaScript to make the site look good and function properly.
+How the html,css and javascript works:
+1. HTML (Structure):
+• HTML is like the skeleton of a webpage. It creates the basic structure, like headings, paragraphs, images, and links.
+• Example: It places text or images on the page.
+2. CSS (Style):
+• CSS makes the webpage look good. It adds colors, fonts, spacing, and controls the layout (how things are arranged).
+• Example: It changes the color of text, makes buttons look nicer, or arranges things in rows or columns.
+3. JavaScript (Interactivity):
+• JavaScript makes the webpage interactive. It allows actions like clicking buttons, showing messages, or updating information without reloading the page.
+• Example: When you click a button, JavaScript can show a message or change something on the page.
+How this three works :
+• HTML builds the page structure.
+• CSS makes it look pretty.
+• JavaScript adds interaction (things that happen when you click or type).
+What is the Cloud? The cloud is like a big storage and computing space you can access online. Instead of storing files, running programs, or processing data on your personal device, you use the internet to access powerful systems that do this for you.
+Example’s: • Amazon Web Services (AWS)
+• Microsoft Azure
+•Google Drive
+• Dropbox
+What is a Server?
+A server is a powerful computer that stores, processes, and delivers information to other devices (like your phone or laptop).
+Example’s:
+• HTTP Server
+• Local Server
+What is IP address? An IP address (Internet Protocol address) is a unique identifier assigned to each device connected to a network (like the internet). It acts like a digital address, allowing devices to locate and communicate with each other.
+Why is an IP Address Important? • Device Identification: Helps identify devices on a network.
+• Communication: Enables devices to send and receive data.
+• Website Access: Your public IP tells websites where to send requested data.
+
+What is browser? A browser (short for web browser) is a software application that allows you to access and interact with websites on the internet. It acts as a gateway between you and the web, displaying content like text, images, videos, and more, by interpreting website code (HTML, CSS, JavaScript, etc.).
+Example’s: • Google Chrome: Fast, popular, and widely used.
+• Mozilla Firefox: Privacy-focused with open-source origins.
+• Microsoft Edge: Integrated with Windows and optimized for performance.
+• Safari: Designed for Apple devices.
+• Opera: Features built-in ad blockers and free VPN.
+What is API’s?
+An API (Application Programming Interface) is a set of rules and tools that allow two software applications to communicate and exchange data with each other. It acts like a bridge, enabling one application to interact with another without needing to know the internal workings of the other app. Real-Life Examples of APIs
+Google maps Api’s Payment api’s Social media api’s Weather api’s Messaging api’s
+What is local storage: Local storage refers to a way of storing data on a device or within a browser, so that the data can persist even after the user closes the app or web page. It's used to save information that needs to be available locally (on the user's device) without constantly needing to retrieve it from a server.
+What is client? In computing, a client is a device or software that interacts with a server to access services or resources. It’s essentially the "user" side of a client-server model, where the client makes requests to a server, and the server provides the requested data or service. Client-Server Model In the client-server model, the client makes requests, and the server processes them and responds. For example: Client (You): The person who uses the web browser to visit a website. Server: The website’s server, which stores and serves the web pages. Real-Life Example:
+Imagine a restaurant: The Client: You (the customer) ordering food. The Server: The waiter, who takes your order to the kitchen and brings the food back to you. The Kitchen: The system (server) preparing the food based on the order.
+>What is Static and Dynamic web pages?
+Static web-page: A static web page is a simple page where the content remains the same every time it is loaded, meaning it doesn’t change or respond to user interactions. It’s ideal for sites that don’t require frequent updates or customization, like informational websites or blogs.
+Dynamic web-page: A dynamic web page is one where the content is generated or updated in real-time based on user input, preferences, or other variables. It often involves interaction with a server or database, making it suitable for websites like social media, online stores, or news sites, where content frequently changes or needs to be personalized.
+Why we only store the database in cloud? We store databases in the cloud because it offers scalability, flexibility, remote access, automatic backups, and reduced infrastructure costs, allowing businesses to focus on core activities while ensuring data is secure and highly available.
+Why we can’t store the data in server? We don't store data directly on the server or client because of issues:
+1. Server Issues: The server might run out of space or become slow if it stores too much data. If the server crashes, data could be lost.
+2. Client Issues: Devices (like phones or computers) don't have enough space to store lots of data. It's harder to keep data safe and secure on a device. Data on one device can't easily be shared with others.
+Why Use a Database? Databases store data in a safe, organized place, and are easier to manage.
+• They allow quick access to data, even if there’s a lot of it. Databases also make it easier to back up and protect data.
+Simple Analogy: Server storage is like a messy drawer that can get full. Client storage is like putting everything in your personal bag, which can be lost or damaged. Databases are like an organized filing system where everything is safe and easy to find. Databases are the best way to store data because they keep it organized, secure, and easy to access.
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
